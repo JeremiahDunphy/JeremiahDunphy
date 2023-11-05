@@ -3,7 +3,7 @@
 Hello! I'm Jeremiah, a passionate web and software developer dedicated to building innovative and efficient solutions.
 
 ## 💻 Skills
-- **Languages**: JavaScript (React, Node.js), Python (Django), HTML, CSS
+- **Languages**: JavaScript (React, Node.js), Python (Django), HTML, CSS, Java, Spring/SpringBoot
 - **Tools**: Git, GitHub, Visual Studio Code, Docker
 - **Databases**: MongoDB, PostgreSQL
 - **Others**: REST APIs, GraphQL
