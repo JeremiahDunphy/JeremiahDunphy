@@ -10,46 +10,56 @@ Hello! I'm Jeremiah, a passionate web and software developer dedicated to buildi
 
 ## 📈 Experience
 
-### Web Developer
-**Company Name** - Location, Date
+### HRIS Analyst / Software Developer
+**CW Resources** - New Britain, CT, Dec '21 - Oct '23
+- Engineered and launched customized applications using JavaScript and Java, elevating workflow efficiency by 30%.
+- Furnished end-users with detailed guides and training sessions, enabling them to exploit the full potential of our JavaScript and Java tools for better data handling, leading to a 15% improvement in decision quality.
+- Constructed full-stack HRIS solutions employing Java, achieving a 40% uptick in data accuracy and process efficiency.
+- Applied Java and JavaScript libraries like D3.js for insightful data analytics, unveiling trends contributing to 20% smarter HR strategies and decisions.
+- Collaborated with various departments to refine HR procedures, deploying Java and JavaScript optimizations that cut down the onboarding period by 30% and elevated employee satisfaction by 10%.
+- Lead the migration from legacy systems to contemporary Java and JavaScript frameworks, ensuring a smooth transition with only 5% downtime and equipping end-users through focused training programs for optimized system engagement.
 
-- Task/Responsibility 1
-- Task/Responsibility 2
-- Task/Responsibility 3
+### Data Analyst
+**United States Army** - Fort Campbell, TN, Jul '18 - Apr '22
+- Analyzed large datasets using SQL and Python to identify trends and patterns, resulting in a 15% increase in personnel efficiency and productivity.
+- Developed and implemented data models to optimize business processes, resulting in a 20% improvement in operational efficiency.
+- Spearheaded statistical analysis creating data visualizations to communicate insights to stakeholders, improving decision-making processes by 25%.
+- Collaborated with cross-functional teams to gather requirements, design data solutions, and ensure data integrity, resulting in a 30% reduction in data errors.
 
-### Software Developer Intern
-**Company Name** - Location, Date
-
-- Task/Responsibility 1
-- Task/Responsibility 2
-- Task/Responsibility 3
+### Full-Stack Java Developer
+**Cambridge Analytica** - Storrs, CT, Aug '16 - Jul '18
+- Created and maintained Java-based applications for various clients, including financial institutions and healthcare providers, ensuring the security and reliability of sensitive data.
+- Engineered responsive web interfaces using HTML5, CSS3, and JavaScript, providing a 20% enhanced user experience for customers.
+- Designed and optimized database schemas, improving data retrieval and query performance by 40%.
+- Integrated external APIs and libraries into Java applications, enhancing functionality and user experience by 20%.
+- Conducted thorough testing and debugging of Java code, ensuring the delivery of high-quality, bug-free software products.
 
 ## 🎓 Education
-- **Degree**: Institution Name, Date
-- **Certifications**:
-  - Certification 1
-  - Certification 2
+
+- **Full-Stack Software Development Bootcamp**, Tech Elevator, Oct '23 - Jan '24
+  - Full-stack bootcamp designing software systems and solutions with 800+ hours of education and application.
+
+- **BS - Computer Science**, Southern New Hampshire University, Aug '23 - Present
+  - Computer Science - Software Engineering Major.
+
+- **MBA**, Capella University, Aug '21 - Aug '22
+  - [Details about the MBA program or specialization].
+
+- **BS - Business**, Western Governors University, Dec '18 - May '20
+  - [Details about the Business degree or related achievements].
+
+- **AA - Human Services**, QuineBaug Valley Community College, Jul '14 - May '18
+  - [Details about the Associate degree or related experiences].
 
 ## 📜 Portfolio
 
-1. **Project 1**
-    - **Description**: Brief description of the project.
-    - **Technologies used**: List of technologies used.
-    - **GitHub link**: [Project 1](https://github.com/JeremiahDunphy/Project1)
-    - **Live Demo**: [Here](https://www.project1demo.com)
-
-2. **Project 2**
-    - **Description**: Brief description of the project.
-    - **Technologies used**: List of technologies used.
-    - **GitHub link**: [Project 2](https://github.com/JeremiahDunphy/Project2)
-    - **Live Demo**: [Here](https://www.project2demo.com)
+[Include details about your projects and portfolio here.]
 
 ## 📧 Contact
 Feel free to reach out to me!
 
-- **Email**: jeremiahdunphy@example.com
+- **Email**: miahedunphy@gmail.com
 - **LinkedIn**: [Jeremiah Dunphy](https://www.linkedin.com/in/jeremiahdunphy/)
 - **GitHub**: [Jeremiah Dunphy](https://github.com/JeremiahDunphy)
 
 Thank you for visiting my profile! 😊
-
