@@ -53,7 +53,7 @@ Hello! I'm Jeremiah, a passionate web and software developer dedicated to buildi
 
 ## 📜 Portfolio
 
-[Include details about your projects and portfolio here.]
+
 
 ## 📧 Contact
 Feel free to reach out to me!
