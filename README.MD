@@ -51,9 +51,6 @@ Hello! I'm Jeremiah, a passionate web and software developer dedicated to buildi
 - **AA - Human Services**, QuineBaug Valley Community College, Jul '14 - May '18
   - Focused on the study of social services policies and practices, including courses on psychology, sociology, and counseling. Completed an internship with a local nonprofit organization, gaining hands-on experience in community service and support, and conducted a research project on the impact of community programs on local youth.
 
-## 📜 Portfolio
-
-
 
 ## 📧 Contact
 Feel free to reach out to me!
