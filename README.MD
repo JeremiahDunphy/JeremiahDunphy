@@ -43,13 +43,13 @@ Hello! I'm Jeremiah, a passionate web and software developer dedicated to buildi
   - Computer Science - Software Engineering Major.
 
 - **MBA**, Capella University, Aug '21 - Aug '22
-  - [Details about the MBA program or specialization].
+  - Specialized in Strategic Management, focusing on developing analytical skills for high-level decision-making and strategic planning. Completed a capstone project on "Strategies for Sustaining Competitive Advantage in the Digital Age," which involved a comprehensive analysis of emerging technologies' impact on business strategies.
 
 - **BS - Business**, Western Governors University, Dec '18 - May '20
-  - [Details about the Business degree or related achievements].
+  - Concentrated on People and Management. Developed a strong foundation in business principles, including finance, marketing, operations, and leadership. Engaged in a hands-on project that involved creating a marketing plan for a startup, which included market research, segmentation, and budget planning.
 
 - **AA - Human Services**, QuineBaug Valley Community College, Jul '14 - May '18
-  - [Details about the Associate degree or related experiences].
+  - Focused on the study of social services policies and practices, including courses on psychology, sociology, and counseling. Completed an internship with a local nonprofit organization, gaining hands-on experience in community service and support, and conducted a research project on the impact of community programs on local youth.
 
 ## 📜 Portfolio
 
